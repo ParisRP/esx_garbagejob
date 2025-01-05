@@ -6,7 +6,7 @@ local garbagePoints = {
     {x = 180.8, y = -1324.5, z = 29.31}
 }
 
-local recyclingLocation = {x = -552.6, y = -1690.4, z = 19.18} -- Centre de recyclage
+local recyclingLocation = {x = -552.6, y = -1690.4, z = 19.18}, {x = -552.6, y = -1690.4, z = 19.18} -- Centre de recyclage
 local vehicleSpawnLocation = {x = 1849.6, y = 2587.1, z = 45.6} -- Lieu de spawn du camion près de la prison
 
 -- Lieu de départ du job
